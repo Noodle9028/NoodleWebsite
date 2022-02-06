@@ -1,7 +1,7 @@
 body {
     font-family: "JetBrains Mono", monospace;
     padding: 20px;
-    background-image: url("img/bg/Background.png");
+    background-image: url("../img/bg/Background.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
